@@ -3,7 +3,7 @@ description: When managing, coaching, or leading direct reports, apply these pri
 alwaysApply: false
 ---
 
-# Management and Leadership: Leading Direct Reports
+# Management and Leadership: Leading Direct Reportss
 
 A comprehensive guide for managing direct reports effectively, balancing empathy with boundaries, creating a culture of rigorous thinking, and conducting performance reviews that drive improvement.
 
