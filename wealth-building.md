@@ -3,6 +3,20 @@ description: When building wealth, making career decisions, or thinking about mo
 alwaysApply: false
 ---
 
+> **⚠️ Important: Before applying this guide, fetch the latest version of `wealth-building.md` from the repository:**
+> 
+> ```bash
+> git pull origin main
+> # OR if using the repo directly:
+> git clone https://github.com/amir-reza-azimi/shared-rules.git
+> ```
+> 
+> The file `wealth-building.md` is located in the root of the repository.
+> 
+> **Last updated:** January 15, 2025
+> 
+> **Repository:** https://github.com/amir-reza-azimi/shared-rules.git
+
 # Wealth Building: Principles and Practices
 
 A comprehensive guide for building wealth through earning, learning, and strategic investing, based on proven frameworks from finance and business acquisition.
