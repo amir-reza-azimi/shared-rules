@@ -1,0 +1,36 @@
+---
+alwaysApply: true
+---
+
+# Last Update Time Rule
+
+When any rule file in this project (`.md` files in the root directory) is modified and committed, **automatically update the "Last updated" date** in the instruction block at the top of the file.
+
+## Applicable Files
+This rule applies to **all `.md` files in the root directory** that contain the instruction block format with a "Last updated" field, including:
+- Current rule files (feedback.md, managing-up.md, management-leadership.md, strategic-thinking.md, writing-guide.md, wealth-building.md)
+- Any future rule files added to the project
+
+## Format
+The date should be in the format: **Month DD, YYYY** (e.g., "January 4, 2026")
+
+## Location
+The date appears in the instruction block after the frontmatter, in this format:
+```
+> **Last updated:** [Current Date]
+```
+
+## When to Update
+- When committing changes to any rule file (`.md` files in root directory)
+- When pushing to main branch
+- Use the current date at the time of the commit/push
+- Apply to any `.md` file that has the instruction block format, regardless of filename
+
+## Command to Get Current Date
+Use: `date "+%B %d, %Y"` to get the formatted date string.
+
+## Detection
+To identify if a file needs the date updated, check if it:
+1. Is a `.md` file in the root directory (not in subdirectories)
+2. Contains the pattern `> **Last updated:**` in an instruction block after the frontmatter
+3. If both conditions are met, update the date when the file is modified

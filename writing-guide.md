@@ -13,7 +13,7 @@ alwaysApply: false
 > 
 > The file `writing-guide.md` is located in the root of the repository.
 > 
-> **To check the last update date:** Use `git log -1 --format="%ai" writing-guide.md` or view the file history on GitHub.
+> **Last updated:** January 4, 2026
 > 
 > **Repository:** https://github.com/amir-reza-azimi/shared-rules.git
 
