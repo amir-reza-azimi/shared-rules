@@ -13,7 +13,7 @@ alwaysApply: false
 > 
 > The file `wealth-building.md` is located in the root of the repository.
 > 
-> **Last updated:** January 15, 2025
+> **Last updated:** January 4, 2026
 > 
 > **Repository:** https://github.com/amir-reza-azimi/shared-rules.git
 
