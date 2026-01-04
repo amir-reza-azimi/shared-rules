@@ -61,6 +61,23 @@ This repository contains evidence-based frameworks and principles for effective 
 - Techniques for clarity (signposting, offering to elaborate, situational awareness)
 - Fixing limbo writing (clarifying ideas, finishing thoughts, stating assumptions)
 
+### 6. [Wealth Building: Principles and Practices](wealth-building.md)
+**When to apply:** When building wealth, making career decisions, or thinking about money and financial freedom
+
+**Core principle:** You never get rich investing—you get rich earning. Money is a tool and a language. Your biggest ROI is on you and your time.
+
+**Key topics:**
+- The language of money (money as a tool, not emotional value)
+- Learn, earn, invest, repeat framework (career progression phases)
+- The 9-to-5 strategy (starting in high-paying industries, getting trained, accumulating capital)
+- Economic interconnectedness (proximity to high performers and wealth)
+- Rich mindset vs. broke mindset (armor of no's vs. coat of no's)
+- Buying businesses vs. starting from scratch
+- Good business vs. bad business evaluation
+- Hiring and building teams (complementary skills, grit, high performers)
+- Reputation and brand building
+- Focus vs. layering strategies
+
 ## How to Use These Guidelines
 
 Each guideline file contains:
@@ -135,13 +152,15 @@ shared-rules/
 ├── managing-up.md              # Managing Up: Principles and Practices
 ├── management-leadership.md    # Management and Leadership: Leading Direct Reports
 ├── strategic-thinking.md       # Strategic Thinking: Assertions and Rigorous Thinking
-└── writing-guide.md            # Writing Guide: Concise and Clear Communication
+├── writing-guide.md            # Writing Guide: Concise and Clear Communication
+└── wealth-building.md          # Wealth Building: Principles and Practices
 ```
 
 ## Sources
 
 These guidelines synthesize principles primarily from:
 - **Wes Kao's Newsletter** - Articles on management, communication, and strategic thinking
+- **Codie Sanchez** - Principles on wealth building, business acquisition, and financial freedom
 - Industry best practices and frameworks
 - Evidence-based approaches to workplace effectiveness
 
