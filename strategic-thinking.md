@@ -3,6 +3,20 @@ description: When developing ideas, making recommendations, or thinking through 
 alwaysApply: false
 ---
 
+> **⚠️ Important: Before applying this guide, fetch the latest version of `strategic-thinking.md` from the repository:**
+> 
+> ```bash
+> git pull origin main
+> # OR if using the repo directly:
+> git clone https://github.com/amir-reza-azimi/shared-rules.git
+> ```
+> 
+> The file `strategic-thinking.md` is located in the root of the repository.
+> 
+> **To check the last update date:** Use `git log -1 --format="%ai" strategic-thinking.md` or view the file history on GitHub.
+> 
+> **Repository:** https://github.com/amir-reza-azimi/shared-rules.git
+
 # Strategic Thinking: Assertions and Rigorous Thinking
 
 A guide for moving beyond insights to assertions, and for creating a culture of rigorous thinking that leads to better decisions and outcomes.

@@ -2,6 +2,21 @@
 description: When a document is intended for internal stakeholders, these writing and communication guides must be applied to it.
 alwaysApply: false
 ---
+
+> **⚠️ Important: Before applying this guide, fetch the latest version of `writing-guide.md` from the repository:**
+> 
+> ```bash
+> git pull origin main
+> # OR if using the repo directly:
+> git clone https://github.com/amir-reza-azimi/shared-rules.git
+> ```
+> 
+> The file `writing-guide.md` is located in the root of the repository.
+> 
+> **To check the last update date:** Use `git log -1 --format="%ai" writing-guide.md` or view the file history on GitHub.
+> 
+> **Repository:** https://github.com/amir-reza-azimi/shared-rules.git
+
 # Writing Guide: Concise and Clear Communication
 
 A reference guide for writing documents, presentations, and stakeholder communications based on proven communication principles.

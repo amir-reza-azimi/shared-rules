@@ -3,6 +3,20 @@ description: When working with or communicating to managers and senior leaders, 
 alwaysApply: false
 ---
 
+> **⚠️ Important: Before applying this guide, fetch the latest version of `managing-up.md` from the repository:**
+> 
+> ```bash
+> git pull origin main
+> # OR if using the repo directly:
+> git clone https://github.com/amir-reza-azimi/shared-rules.git
+> ```
+> 
+> The file `managing-up.md` is located in the root of the repository.
+> 
+> **To check the last update date:** Use `git log -1 --format="%ai" managing-up.md` or view the file history on GitHub.
+> 
+> **Repository:** https://github.com/amir-reza-azimi/shared-rules.git
+
 # Managing Up: Principles and Practices
 
 A comprehensive guide for managing up effectively, understanding power dynamics, and building productive relationships with managers and senior leaders.

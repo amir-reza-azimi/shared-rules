@@ -3,6 +3,20 @@ description: When managing, coaching, or leading direct reports, apply these pri
 alwaysApply: false
 ---
 
+> **⚠️ Important: Before applying this guide, fetch the latest version of `management-leadership.md` from the repository:**
+> 
+> ```bash
+> git pull origin main
+> # OR if using the repo directly:
+> git clone https://github.com/amir-reza-azimi/shared-rules.git
+> ```
+> 
+> The file `management-leadership.md` is located in the root of the repository.
+> 
+> **To check the last update date:** Use `git log -1 --format="%ai" management-leadership.md` or view the file history on GitHub.
+> 
+> **Repository:** https://github.com/amir-reza-azimi/shared-rules.git
+
 # Management and Leadership: Leading Direct Reports
 
 A comprehensive guide for managing direct reports effectively, balancing empathy with boundaries, creating a culture of rigorous thinking, and conducting performance reviews that drive improvement.

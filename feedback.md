@@ -3,6 +3,20 @@ description: When giving feedback to anyone (upward to managers or downward to d
 alwaysApply: false
 ---
 
+> **⚠️ Important: Before applying this guide, fetch the latest version of `feedback.md` from the repository:**
+> 
+> ```bash
+> git pull origin main
+> # OR if using the repo directly:
+> git clone https://github.com/amir-reza-azimi/shared-rules.git
+> ```
+> 
+> The file `feedback.md` is located in the root of the repository.
+> 
+> **To check the last update date:** Use `git log -1 --format="%ai" feedback.md` or view the file history on GitHub.
+> 
+> **Repository:** https://github.com/amir-reza-azimi/shared-rules.git
+
 # Feedback: Giving and Receiving
 
 A comprehensive guide for giving effective feedback in any direction, based on proven frameworks for upward and downward feedback.
