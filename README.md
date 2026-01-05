@@ -61,22 +61,37 @@ This repository contains evidence-based frameworks and principles for effective 
 - Techniques for clarity (signposting, offering to elaborate, situational awareness)
 - Fixing limbo writing (clarifying ideas, finishing thoughts, stating assumptions)
 
-### 6. [Wealth Building: Principles and Practices](wealth-building.md)
-**When to apply:** When building wealth, making career decisions, or thinking about money and financial freedom
+### 6. [Investing and Wealth Generation](investing-wealth-generation.md)
+**When to apply:** When making investment decisions, evaluating investment opportunities, or thinking about wealth generation strategies
 
-**Core principle:** You never get rich investing—you get rich earning. Money is a tool and a language. Your biggest ROI is on you and your time.
+**Core principle:** You never get rich investing—you get rich earning. However, once you have earnings, strategic investing is essential for wealth generation.
 
 **Key topics:**
 - The language of money (money as a tool, not emotional value)
-- Learn, earn, invest, repeat framework (career progression phases)
-- The 9-to-5 strategy (starting in high-paying industries, getting trained, accumulating capital)
-- Economic interconnectedness (proximity to high performers and wealth)
-- Rich mindset vs. broke mindset (armor of no's vs. coat of no's)
+- Strategic investing principles (diversification, risk management)
+- Good business vs. bad business evaluation (cash flow, sustainability, Lindy effect)
+- Investment evaluation metrics (referral rate, repurchase rate, churn)
+
+### 7. [Entrepreneurship: Starting, Buying, and Building](entrepreneurship.md)
+**When to apply:** When starting a business, buying a business, building a personal brand, or making entrepreneurial decisions
+
+**Core principle:** It's very hard to make a profitable business. Focus on what works: buying proven businesses, evaluating opportunities rigorously, building your personal brand, and maintaining strategic focus.
+
+**Key topics:**
 - Buying businesses vs. starting from scratch
 - Good business vs. bad business evaluation
-- Hiring and building teams (complementary skills, grit, high performers)
-- Reputation and brand building
-- Focus vs. layering strategies
+- Reputation and personal brand building (transparency, inoculations, cultivation)
+- Focus and business strategy (when to focus vs. layer)
+
+### 8. [Negotiating Raises and Higher Earnings](negotiating-raises.md)
+**When to apply:** When negotiating for higher compensation, asking for raises, or positioning yourself for increased earnings at your company
+
+**Core principle:** Your biggest ROI is on you and your time. Position yourself as a profit center, negotiate a percentage of the value you create, and remember: The first no is not the final no.
+
+**Key topics:**
+- Positioning for higher earnings (cost center vs. profit center)
+- Negotiating a percentage of value created (revenue-sharing approach)
+- Negotiation strategies (the first no is not the final no, learning from other cultures)
 
 ## How to Use These Guidelines
 
@@ -153,7 +168,9 @@ shared-rules/
 ├── management-leadership.md    # Management and Leadership: Leading Direct Reports
 ├── strategic-thinking.md       # Strategic Thinking: Assertions and Rigorous Thinking
 ├── writing-guide.md            # Writing Guide: Concise and Clear Communication
-└── wealth-building.md          # Wealth Building: Principles and Practices
+├── investing-wealth-generation.md  # Investing and Wealth Generation
+├── entrepreneurship.md         # Entrepreneurship: Starting, Buying, and Building
+└── negotiating-raises.md       # Negotiating Raises and Higher Earnings
 ```
 
 ## Sources
